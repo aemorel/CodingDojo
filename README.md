@@ -1,4 +1,4 @@
-# **Tareas, Apuntes y Ejercicios - Fundamentos de DS, ML y Advanced ML**
+# **Tareas, Apuntes y Ejercicios - Data Science & Machine Learning**
 
 Este repositorio contiene las **tareas**, **apuntes** y **ejercicios prácticos** realizados durante los cursos de **Fundamentos de Ciencia de Datos**, **Machine Learning** y **Advanced Machine Learning** ofrecidos en **Coding Dojo**. Su propósito es reforzar el aprendizaje a través de prácticas progresivas y proyectos secuenciales.
 
